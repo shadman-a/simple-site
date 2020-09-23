@@ -21,7 +21,7 @@ function App() {
         <Route exact path="/Contact" component={Contact} />
       </div>
     </Router>
-        <img src={logo} className="App-logo" alt="logo" />
+        <img src={logo} className="App-logo" alt="logohello" />
       </header>
       
 
