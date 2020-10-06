@@ -6,7 +6,7 @@ class Resume extends Component {
     return (
       <div>
         <h1>Resume</h1>
-        <button onClick={this.handleSubmit}>Clivk</button>
+        <button onClick={this.handleSubmit}>Click</button>
       </div>
     )
   } 
