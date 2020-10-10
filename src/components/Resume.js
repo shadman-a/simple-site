@@ -7,7 +7,7 @@ class Resume extends Component {
       <div>
         <h1>Resume :
         </h1>
-        <button onClick={this.handleSubmit}>Click</button>
+        <button onClick={this.handleSubmit}>Click Here</button>
       </div>
     )
   } 
